@@ -1,0 +1,9 @@
+HTTP_PROXY=http://http.proxy.fmr.com:8000
+HTTPS_PROXY=http://http.proxy.fmr.com:8000
+http.sslVerify=false
+https-proxy:http://http.proxy.fmr.com:8000/=
+https-proxy=http://http.proxy.fmr.com:8000/
+proxy=http://http.proxy.fmr.com:8000/
+registry=https://ftl.uk.fid-intl.com:8443/repository/FIL-NPM
+metrics-registry="="
+strict-ssl=false
